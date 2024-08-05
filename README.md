@@ -1,4 +1,4 @@
-This repository contains my codes for the final project of the Machine Learning course lectured by Dr. Fatemeh Seyedsalehi on Spring 2024 semester.
+This repository contains my codes for final project of the Machine Learning course lectured by Dr. Fatemeh Seyedsalehi on Spring 2024 semester.
 
 The project contains the below sections:
 
